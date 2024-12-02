@@ -45,7 +45,7 @@ Buat file baru dengan nama header.php pada folder lab9_tugas
 
 ## <b> LANGKAH 3 </b>
 Buat file baru dengan nama footer.php pada folder lab9_tugas
-![Screenshot 2024-12-02 173548](https://github.com/user-attachments/assets/4bed6c15-debd-49ba-8c47-efe501d04e3f)
+![Screenshot 2024-12-02 175816](https://github.com/user-attachments/assets/da7aeb20-dba5-4da9-9b1e-9c7db31d6e87)
 
 ## <b> LANGKAH 4 </b>
 Buat file baru dengan nama home.php pada folder lab9_tugas
